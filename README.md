@@ -1,5 +1,7 @@
 # donejs-chat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chasenlehara/donejs-chat-issue.svg)](https://greenkeeper.io/)
+
 Welcome to the donejs-chat DoneJS application!
 
 ## Getting started
